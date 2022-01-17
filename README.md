@@ -2,7 +2,7 @@
 
 ## Description
 
-Building a node-based Ecommerce sitwe.
+Building a node-based Ecommerce site.
 
 
 ![screenshot](./images/screen-sample.png)
@@ -19,7 +19,7 @@ Building a node-based Ecommerce sitwe.
 
 ## Installation
 
-To install locally, clone this repository to your local environment.  This is a node application, so node must be installed.  MySQL must also be installed locally.  For mySQL installation see https://dev.mysql.com/doc/refman/8.0/en/installing.html  If you need to install node, check out this link  https://nodejs.org/en/download/.  Once mySQL and node (and npm) are installed, attach to the repository root directory and update npm dependencies with the following command:
+To install locally, clone this repository to your local environment.  This is a node application, so node must be installed.  MySQL must also be installed locally.  For mySQL installation see https://dev.mysql.com/doc/refman/8.0/en/installing.html.  If you need to install node, check out this link  https://nodejs.org/en/download/.  Once mySQL and node (and npm) are installed, attach to the repository root directory and update npm dependencies with the following command:
 
 * npm install jest express mysql2 dotenv sequelize
 
@@ -37,20 +37,20 @@ INSTALLATION DEMO...
 
 ## Usage
 
-To execute the application, you have 3 command-line options.  From the root directory of the repository clone type one of the following:
+To execute the application, you have 3 command-line options.  From the root directory of the repository clone, type one of the following:
 
-Markup : 1.  npm start           (starts the server and connects to the database)
-         2.  npm startover       (starts the server and synchronizes database with sequelize models...all data lost)
-         3.  npm startseed       (starts the server and synchronizes database with sequelize models...all data replaced)
+1.  npm start           (starts the server and connects to the database)
+2.  npm startover       (starts the server and synchronizes database with sequelize models...all data lost)
+3.  npm startseed       (starts the server and synchronizes database with sequelize models...all data replaced)
 
-The application will remain running in the terminal until it is terminated with a CTRL<C> keystroke.
+The application will remain running in the terminal until it is terminated with a CTRL-C keystroke.
 
 See the following demo for how to start the application...
 
 START APPLICATION DEMO
 
 
-There are 4 sequelize models with associations as defined in the <root>/models/index.js file.
+There are 4 sequelize models with associations as defined in the REPOSITORY-ROOT/models/index.js file.
 
 Here are the "model-to-table" names:
 
@@ -61,7 +61,7 @@ Here are the "model-to-table" names:
 
 This application uses the Express server and Sequelizer ORM to manage and manipulate data stored in a MySQL database instance.
 
-See the following demo to understand the functionality available through it's REST API.
+See the following demo to understand the functionality available through the REST API.
 
 APPLICATION USAGE DEMO...
 
