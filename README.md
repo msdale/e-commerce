@@ -57,9 +57,9 @@ Here are the "model-to-table" names:
 
 This application uses the Express server and Sequelizer ORM to manage and manipulate data stored in a MySQL database instance.
 
-See the following demo to understand the functionality available through the REST API.
+See the following demo to understand the functionality available through the REST API using the HTTP GET method.
 
-APPLICATION USAGE DEMO...
+https://user-images.githubusercontent.com/90280725/149813494-8af6d5d7-97cb-4a01-b827-8be99919e136.mp4
 
 
 ## Questions
