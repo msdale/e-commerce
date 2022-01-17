@@ -8,7 +8,7 @@ router.get('/', (req, res) => {
   // find all tags
   // be sure to include its associated Product data
   Tag.findAll({
-    order: ['tag_name'],
+    order: [['id', 'DESC']],
     attributes: [
       'id',
       'tag_name'

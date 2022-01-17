@@ -62,6 +62,11 @@ See the following demo to understand the functionality available through the RES
 https://user-images.githubusercontent.com/90280725/149813494-8af6d5d7-97cb-4a01-b827-8be99919e136.mp4
 
 
+See the following demo to understand the functionality available through the REST API using the HTTP POST, PUT, and DELETE methods.
+
+
+
+
 ## Questions
 
 Any questions, please contact Mark Dale.
