@@ -39,9 +39,9 @@ INSTALLATION DEMO...
 
 To execute the application, you have 3 command-line options.  From the root directory of the repository clone, type one of the following:
 
-1.  npm start           (starts the server and connects to the database)
-2.  npm startover       (starts the server and synchronizes database with sequelize models...all data lost)
-3.  npm startseed       (starts the server and synchronizes database with sequelize models...all data replaced)
+1.  *npm start*           (starts the server and connects to the database)
+2.  *npm startover*       (starts the server and synchronizes database with sequelize models...all data lost)
+3.  *npm startseed*       (starts the server and synchronizes database with sequelize models...all data replaced)
 
 The application will remain running in the terminal until it is terminated with a CTRL-C keystroke.
 
