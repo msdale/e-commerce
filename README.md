@@ -28,7 +28,7 @@ THIS SQL SCRIPT SHOULD ONLY BE RUN ONCE TO INITIALIZE THE MYSQL DATABASE/SCHEMA 
 See demo of the installation process below...
 
 
-INSTALLATION DEMO...
+https://user-images.githubusercontent.com/90280725/149690536-69174b58-808f-45e3-85f4-8b50bc2831d7.mp4
 
 
 ## Usage
