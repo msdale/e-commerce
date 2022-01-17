@@ -17,7 +17,7 @@ Building a node-based Ecommerce site.
 
 To install locally, clone this repository to your local environment.  This is a node application, so node must be installed.  MySQL must also be installed locally.  For mySQL installation see https://dev.mysql.com/doc/refman/8.0/en/installing.html.  If you need to install node, check out this link  https://nodejs.org/en/download/.  Once mySQL and node (and npm) are installed, attach to the repository root directory and update npm dependencies with the following command:
 
-* npm install jest express mysql2 dotenv sequelize
+* npm install express mysql2 dotenv sequelize
 
 Additionally you must execute the a database initialization script.  Attach to the root directory of the repository and connect to mySQL, then type the source command...
 
