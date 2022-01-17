@@ -4,10 +4,6 @@
 
 Building a node-based Ecommerce site.
 
-
-![screenshot](./images/screen-sample.png)
-
-
 ## Table Of Contents
 
 - [e-commerce](#e-commerce)
