@@ -43,7 +43,7 @@ The application will remain running in the terminal until it is terminated with 
 
 See the following demo for how to start the application...
 
-START APPLICATION DEMO
+https://user-images.githubusercontent.com/90280725/149808490-9c53bdb3-d10c-45dc-9276-9714a0023ed4.mp4
 
 
 There are 4 sequelize models with associations as defined in the REPOSITORY-ROOT/models/index.js file.
