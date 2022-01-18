@@ -25,10 +25,18 @@ mysql> source db/schema.sql
 
 THIS SQL SCRIPT SHOULD ONLY BE RUN ONCE TO INITIALIZE THE MYSQL DATABASE/SCHEMA AS A FIRST-TIME SETUP.
 
+Lastly, there must be a .env file present (you must create it) in the root directory of the repository clone in your local environment.  The .env file will contain your MySQL credentials.  The correct format is:
+
+DB_NAME='database_name'  
+DB_USER='user'  
+DB_PW='password'  
+
+The database_name will be 'ecommerce_db', the user and password are to be substituted with your MySQL credentials.
+
 See demo of the installation process below...
 
 
-https://user-images.githubusercontent.com/90280725/149690536-69174b58-808f-45e3-85f4-8b50bc2831d7.mp4
+https://user-images.githubusercontent.com/90280725/149850180-77547647-6048-4fac-afcf-985de5127a87.mp4
 
 
 ## Usage
