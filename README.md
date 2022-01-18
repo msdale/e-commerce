@@ -36,7 +36,7 @@ The database_name will be 'ecommerce_db', the user and password are to be substi
 See demo of the installation process below...
 
 
-https://user-images.githubusercontent.com/90280725/149690536-69174b58-808f-45e3-85f4-8b50bc2831d7.mp4
+https://user-images.githubusercontent.com/90280725/149850180-77547647-6048-4fac-afcf-985de5127a87.mp4
 
 
 ## Usage
